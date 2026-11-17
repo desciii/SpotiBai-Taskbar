@@ -1,0 +1,12 @@
+bin/
+obj/
+dist/
+installer/bin/
+installer/obj/
+installer/app-publish/
+installer/payload/
+
+.vs/
+*.user
+*.suo
+*.pdb
